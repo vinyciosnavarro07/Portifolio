@@ -1,0 +1,6 @@
+.formacao__conteudo {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5rem;
+    text-align: center;
+}

@@ -1,0 +1,5 @@
+.soft-skills__conteudo {
+    display: flex;
+    justify-content: space-around;
+    padding: 5rem;
+}

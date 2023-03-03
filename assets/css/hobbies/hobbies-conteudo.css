@@ -1,0 +1,5 @@
+.hobbies__conteudo {
+    display: flex;
+    justify-content: space-around;
+    padding: 5rem;
+}

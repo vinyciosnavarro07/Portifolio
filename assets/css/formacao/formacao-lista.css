@@ -1,0 +1,14 @@
+.formacao__lista {
+    list-style: none;
+    background: #F0F0F0;
+    border-radius: 10px;
+    width: 300px;
+    padding: 1rem;
+}
+
+.formacao__lista:hover {
+    background: #8C8C8C;
+    color: #F0F0F0;
+    transition: 0.5s;
+    transform: scale(1.5);
+}

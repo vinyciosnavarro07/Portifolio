@@ -1,0 +1,12 @@
+.cabecalho {
+    align-items: center;
+    background: #0D1117;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.nome__vinycios {
+    color: #ffffff;
+}

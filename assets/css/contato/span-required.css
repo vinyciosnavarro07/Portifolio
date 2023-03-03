@@ -1,0 +1,5 @@
+.span__required {
+    display: none;
+    font-size: 15px;
+    color: #e63636;
+}

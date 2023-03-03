@@ -1,0 +1,14 @@
+.skills__bloco {
+    background: #F0F0F0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+}
+
+.skills__bloco:hover {
+    background: #8C8C8C;
+    color: #F0F0F0;
+    transition: 0.5s;
+    transform: scale(1.5);
+}

@@ -1,0 +1,16 @@
+.hobbies__bloco {
+    background: #F0F0F0;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100px;
+    padding: 1rem;
+}
+
+.hobbies__bloco:hover {
+    background: #8C8C8C;
+    color: #F0F0F0;
+    transition: 0.5s;
+    transform: scale(1.5);
+}

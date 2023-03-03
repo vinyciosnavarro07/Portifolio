@@ -1,0 +1,14 @@
+.projetos__botao {
+    background: #0D1117;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 100px;
+    height: 50px;
+}
+
+.projetos__botao:hover {
+    background: #324259;
+    cursor: pointer;
+    transition: 0.3s;
+    transform: scale(1.1);
+}

@@ -1,0 +1,11 @@
+.apresentacao__link {
+    padding-right: 1.5rem;
+    text-decoration: none;
+    font-weight: bold;
+    color: #0D1117;
+}
+
+.apresentacao__link:hover {
+    color: #59759E;
+    transition: 0.6s all;
+}
